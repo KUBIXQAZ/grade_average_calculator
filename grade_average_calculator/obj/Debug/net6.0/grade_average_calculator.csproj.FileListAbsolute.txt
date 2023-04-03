@@ -1,0 +1,15 @@
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\bin\Debug\net6.0\grade_average_calculator.exe
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\bin\Debug\net6.0\grade_average_calculator.deps.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\bin\Debug\net6.0\grade_average_calculator.runtimeconfig.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\bin\Debug\net6.0\grade_average_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\bin\Debug\net6.0\grade_average_calculator.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.csproj.AssemblyReference.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.AssemblyInfoInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.AssemblyInfo.cs
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\refint\grade_average_calculator.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\grade_average_calculator.genruntimeconfig.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\grade_average_calculator\grade_average_calculator\obj\Debug\net6.0\ref\grade_average_calculator.dll
