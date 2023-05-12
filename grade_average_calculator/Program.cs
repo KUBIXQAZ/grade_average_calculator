@@ -1,6 +1,4 @@
-﻿using System;
-
-//made by kubixqaz the god of programming//
+﻿//made by kubixqaz the god of programming//
 namespace grade_average_calculator
 {
     internal class Program
